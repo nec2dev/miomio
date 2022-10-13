@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "image": "../../assets/img/lens01.jpg",
+    "title": "Anteojos 1",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae facere laudantium beatae et, eos minus deserunt modi, aliquid excepturi eius suscipit quasi! Suscipit corporis, laborum laudantium obcaecati sit excepturi vitae.",
+    "sizes": [
+        "S",
+        "M"
+    ],
+    "colors": [
+        "Rojo",
+        "Violeta"
+    ],
+    "price": 1500
+}, {
+    "id": 2,
+    "image": "../../assets/img/lens02.jpg",
+    "title": "Anteojos 2",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae facere laudantium beatae et, eos minus deserunt modi, aliquid excepturi eius suscipit quasi! Suscipit corporis, laborum laudantium obcaecati sit excepturi vitae.",
+    "sizes": [
+        "S",
+        "M"
+    ],
+    "colors": [
+        "Rojo",
+        "Violeta"
+    ],
+    "price": 5500
+}, {
+    "id": 3,
+    "image": "../../assets/img/lens03.jpg",
+    "title": "Anteojos 3",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae facere laudantium beatae et, eos minus deserunt modi, aliquid excepturi eius suscipit quasi! Suscipit corporis, laborum laudantium obcaecati sit excepturi vitae.",
+    "sizes": [
+        "S",
+        "M"
+    ],
+    "colors": [
+        "Rojo",
+        "Violeta"
+    ],
+    "price": 1000
+}]
