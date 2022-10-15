@@ -4,7 +4,7 @@ import Logo from "../../assets/img/logo.png"
 
 export default function Header() {
   return (
-    <header className="container">
+    <header className="container my-8">
       <nav class="text-white">
         <div class="px-2 xl:px-2 py-2 flex w-full items-center">
           <a class="text-3xl font-bold font-heading" href="/">
@@ -13,8 +13,6 @@ export default function Header() {
           <ul class="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12">
             <li><a class="hover:text-gray-200" href="#">Home</a></li>
             <li><a class="hover:text-gray-200" href="#">Catagory</a></li>
-            <li><a class="hover:text-gray-200" href="#">Collections</a></li>
-            <li><a class="hover:text-gray-200" href="#">Contact Us</a></li>
           </ul>
           <div class="hidden xl:flex items-center space-x-5 items-center">
             <a class="hover:text-gray-200" href="#">

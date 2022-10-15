@@ -1,4 +1,4 @@
-.list-item {
+/* .list-item {
     display: block;
     box-sizing: border-box;
     padding: 30px;
@@ -27,5 +27,17 @@
 .list-item .list-item-box span {
     font-size: 32px;
     font-weight: bold;
+} */
+
+.work-sans {
+    font-family: 'Work Sans', sans-serif;
+}
+        
+#menu-toggle:checked + #menu {
+    display: block;
 }
 
+.hover\:grow {
+    transition: all 0.3s;
+    transform: scale(1);
+}
